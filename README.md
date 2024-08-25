@@ -28,4 +28,4 @@ To run this project locally, you will need:
 - Basic knowledge of JavaScript, HTML, and CSS
 
 ### Free currency-convertor api
-`https://api.currencyapi.com/v3/latest?apikey=cur_live_Ytyf9mVlm6wcCyRUWGkFk4uVrVTUxqKtUcFP2unb`
+https://api.currencyapi.com/v3/latest?apikey=cur_live_Ytyf9mVlm6wcCyRUWGkFk4uVrVTUxqKtUcFP2unb
